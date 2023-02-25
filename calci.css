@@ -1,0 +1,63 @@
+.cal {
+    text-align: center;
+}
+
+.ans {
+    padding: 30px 50px;
+    width: 270px;
+    background-color: #181823;
+    color: #E9F8F9;
+    border: none;
+    border-radius: 6px;
+    text-align: right;
+    font-size: 25px;
+}
+
+#c-btn {
+    padding: 30px 50px;
+    border-radius: 10px 0px 0px;
+    background-color: #537FE7;
+}
+
+#c-btn:hover {
+    color: #E9F8F9;
+}
+#divide-btn:hover{
+    border-radius: 0px 10px 0px 0px;
+}
+.buttons {
+    margin: 1px auto;
+    background-color: #C0EEF2;
+    width: fit-content;
+    border-radius: 10px;
+}
+
+.btn {
+    background-color: #C0EEF2;
+    color: #181823;
+    border: none;
+    padding: 30px 45px;
+    width: 120px;
+    transition: 0.4s;
+    border-radius: 10px;
+    font-size: 25px;
+}
+
+.btn:hover {
+    background-color: #E9F8F9;
+    border-radius: 0;
+}
+
+#equals-btn {
+    background-color: #537FE7;
+    border-radius: 0px 0px 10px;
+    padding: 30px 47px 30px;
+}
+
+#equals-btn:hover {
+    color: #E9F8F9;
+}
+
+#zero-btn:hover {
+    border-radius: 0px 0px 0px 6px;
+}
